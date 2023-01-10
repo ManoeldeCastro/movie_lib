@@ -1,7 +1,6 @@
 {
   "name": "movie_lib",
-  "homepage": "https://github.com/ManoeldeCastro/Movie-Library",
-  "private": true,
+  "homepage": "https://github.com/ManoeldeCastro/movie_lib",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
