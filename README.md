@@ -1,6 +1,6 @@
 # Movies Library
 
-![Preview](https://github.com/ManoeldeCastro/movie_lib/blob/main/img.png?raw=true)
+![Preview](https://github.com/ManoeldeCastro/movie_lib/blob/main/home%20movie%20lib.png?raw=true)
 
 Construindo uma aplicação para gerencimento de projetos com React.
 
