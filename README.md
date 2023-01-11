@@ -16,8 +16,8 @@ Foram adicionados os seguintes recursos ao projeto:
 * **[React Hook Form](https://www.npmjs.com/package/react-hook-form)**
 * **[React Icons](https://www.npmjs.com/package/react-icons)**
 * **[React Router Dom](https://www.npmjs.com/package/react-router-dom)**
-* **[UUID](https://www.npmjs.com/package/uuid)**
 * **[VITE](https://www.npmjs.com/package/vite)**
+* **[CSS](https://www.npmjs.com/package/css)**
 
 ## 🚀 Link para o deploy:
 
