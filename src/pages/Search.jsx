@@ -11,7 +11,7 @@ const Search = () => {
   const [searchParams] = useSearchParams();
 
   const [movies, setMovies] = useState([]);
-  const query = searchParams.get("q");
+  const query = searchParams.get('q');
 
   const getSearchMovies = async (url) => {
     const res = await fetch(url);
