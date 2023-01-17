@@ -19,7 +19,7 @@ const Search = () => {
     setMovies(data.results);
   };
   useEffect(() => {
-    const searchWithQueryURL = `${searchURL}?${apiKey}&query=${query}`;
+    const searchWithQueryURL = `${searchURL}?${apiKey}&query=${query}&language=pt-BR`;
 
     getSearchMovies(searchWithQueryURL);
   }, [query]);
